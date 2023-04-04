@@ -445,7 +445,7 @@ SELECT pg_size_pretty(pg_relation_size('economic_data.cash_surplus_deficit'));
 --clean cache by restarting when you see postgresql acting weird
 ```
 
-The output is as follows.
+The output is as follows.<br>
 <img src="VI-1_memory_usage_per_table.png"></img>
 
 ***
